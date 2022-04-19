@@ -1,0 +1,11 @@
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.csproj.AssemblyReference.cache
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.csproj.SuggestedBindingRedirects.cache
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.Form1.resources
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.Properties.Resources.resources
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.csproj.GenerateResource.cache
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.csproj.CoreCompileInputs.cache
+D:\My projects\DinoOnC1\DinoOnC1\bin\Debug\DinoOnC1.exe.config
+D:\My projects\DinoOnC1\DinoOnC1\bin\Debug\DinoOnC1.exe
+D:\My projects\DinoOnC1\DinoOnC1\bin\Debug\DinoOnC1.pdb
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.exe
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.pdb
