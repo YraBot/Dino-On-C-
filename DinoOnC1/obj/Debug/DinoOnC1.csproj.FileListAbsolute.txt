@@ -9,3 +9,4 @@ D:\My projects\DinoOnC1\DinoOnC1\bin\Debug\DinoOnC1.exe
 D:\My projects\DinoOnC1\DinoOnC1\bin\Debug\DinoOnC1.pdb
 D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.exe
 D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.pdb
+D:\My projects\DinoOnC1\DinoOnC1\obj\Debug\DinoOnC1.Resource1.resources

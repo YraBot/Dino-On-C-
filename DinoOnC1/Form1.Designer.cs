@@ -28,49 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            road2 = new System.Windows.Forms.Label();
-            road1 = new System.Windows.Forms.Label();
+            this.components = new System.ComponentModel.Container();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
-            // road2
+            // timer1
             // 
-            road2.AutoSize = true;
-            road2.Image = ((System.Drawing.Image)(resources.GetObject("road2.Image")));
-            road2.Location = new System.Drawing.Point(739, 364);
-            road2.Name = "road2";
-            road2.Size = new System.Drawing.Size(1000, 13);
-            road2.TabIndex = 1;
-            road2.Text = resources.GetString("road2.Text");
-            // 
-            // road1
-            // 
-            road1.AutoSize = true;
-            road1.Image = ((System.Drawing.Image)(resources.GetObject("road1.Image")));
-            road1.Location = new System.Drawing.Point(-4, 364);
-            road1.Name = "road1";
-            road1.Size = new System.Drawing.Size(1000, 13);
-            road1.TabIndex = 2;
-            road1.Text = resources.GetString("road1.Text");
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 25;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(road1);
-            this.Controls.Add(road2);
+            this.ClientSize = new System.Drawing.Size(1484, 711);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-        static private System.Windows.Forms.Label road2;
-        static private System.Windows.Forms.Label road1;
+
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
